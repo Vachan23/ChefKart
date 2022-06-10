@@ -1,0 +1,25 @@
+.Popular {
+  padding-top: 20px;
+}
+.Popular-heading {
+  padding-bottom: 10px;
+  font: normal normal bold 14px/19px Open Sans;
+}
+.Popular-items {
+  list-style: none;
+  display: flex;
+  gap: 0 10px;
+}
+.Popular-item {
+  height: 57px;
+  aspect-ratio: 1;
+  border-radius: 50%;
+  border: 1px solid #ff941a;
+  padding: 1px;
+}
+.img-container {
+  background-color: blue;
+  border-radius: 50%;
+  height: 100%;
+  aspect-ratio: 1;
+}
